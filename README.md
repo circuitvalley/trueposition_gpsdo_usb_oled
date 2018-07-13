@@ -6,7 +6,7 @@ PIC18F25K50 TruePosition GPSDO , USB serial, OLED.
     
     website: www.circuitvalley.com 
     
-    Created on October 28, 2017
+    Created on July 12, 2018
     
     PIC18F25K50 TruePosition GPSDO Controller Firmware with USB and OLED Display.
 
