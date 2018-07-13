@@ -1,5 +1,4 @@
 PIC18F25K50 TruePosition GPSDO Controller Firmware with USB and OLED Display.
-=================
 /*******************************************************************************
     
     Author:  Gaurav Singh
