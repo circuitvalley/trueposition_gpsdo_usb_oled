@@ -37,11 +37,11 @@ NC					Resistor 0805						"R2, R6, R7, R9, R13, R15, R19, R21, R27"									0805
 499R				Resistor 0805						R23																			0805					1	RC0805FR-07499RL
 75K					Resistor 0805						R25																			0805					1	RR1220P-753-D
 100K				Resistor 0805						R26																			0805					1	CRCW0805100KFKEA
-4.7K				      Resistor 0805						"R28, R33"																	0805					2	ERA6AEB472V
-SWBxxxx				    RF Transformer						"T1, T2, T3, T4, T5, T6"													SWBxxxx					6	SWB1010
-AD8009ARZ			    "Very High Speed, Opamp"			"U1, U2, U3, U4"															SOIC8					4	AD8009ARZ
+4.7K				Resistor 0805						"R28, R33"																	0805					2	ERA6AEB472V
+SWBxxxx				RF Transformer						"T1, T2, T3, T4, T5, T6"													SWBxxxx					6	SWB1010
+AD8009ARZ			"Very High Speed, Opamp"			"U1, U2, U3, U4"															SOIC8					4	AD8009ARZ
 TL750M10CKVURG3		"LDO, 750 mA, 10 V Output,max 26V"	U5																			TI-KVU3_N				1	TL750M10CKVURG3
 MIC5213-3.3YC5		LDO 3.3V							U6																			SC70-5					1	MIC5213-3.3YC5
 PIC18F25K50-I/SS	"Microcontroller  48 MHz USB"		U7																			MCHP-SSOP-SS28_N		1	PIC18F25K50-I/SS
-NC					      Logic Buffer						U9																			SC70-5					1	74LVC1G17GW-Q100
-74LVC1G17GW			  Logic Buffer						U10																			SC70-5					1	74LVC1G17GW-Q100
+NC					Logic Buffer						U9																			SC70-5					1	74LVC1G17GW-Q100
+74LVC1G17GW			Logic Buffer						U10																			SC70-5					1	74LVC1G17GW-Q100
