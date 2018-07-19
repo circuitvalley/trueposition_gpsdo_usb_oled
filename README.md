@@ -21,7 +21,8 @@ PIC18F25K50 TruePosition GPSDO , USB serial, OLED.
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with PIC18F25K50 TruePosition GPSDO Controller Firmware with USB and OLED Display.  If not, see <http://www.gnu.org/licenses/>.
+    along with PIC18F25K50 TruePosition GPSDO Controller Firmware with USB and OLED Display. 
+    If not, see <http://www.gnu.org/licenses/>.
+https://www.circuitvalley.com/2018/07/gpsdo-10mhz-standard-reference-clock-distribution-trueposition-gps-tcxo-ocxo.html
 *******************************************************************************/
 
-    https://www.circuitvalley.com/2018/07/gpsdo-10mhz-standard-reference-clock-distribution-trueposition-gps-tcxo-ocxo.html
