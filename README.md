@@ -34,6 +34,8 @@ https://www.circuitvalley.com/2018/07/gpsdo-10mhz-standard-reference-clock-distr
 
 ![alt text](https://github.com/circuitvalley/trueposition_gpsdo_usb_oled/raw/master/Hardware_Schematic_PCB/Isolated%20Distribution%20Amp/10Mhz_distribution_amp_diy_www.circuitvalley.com.jpg)
 
-![alt text](https://github.com/circuitvalley/trueposition_gpsdo_usb_oled/raw/master/Hardware_Schematic_PCB/Isolated%20Distribution%20Amp/10Mhz_isolated_distribution.png)
 
 ![alt text](https://github.com/circuitvalley/trueposition_gpsdo_usb_oled/raw/master/Hardware_Schematic_PCB/Isolated%20Distribution%20Amp/trueposition_gpsdo_enclosure%20(1).JPG)
+
+
+![alt text](https://github.com/circuitvalley/trueposition_gpsdo_usb_oled/raw/master/Hardware_Schematic_PCB/Isolated%20Distribution%20Amp/10Mhz_isolated_distribution.png)
